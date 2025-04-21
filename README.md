@@ -16,5 +16,5 @@ Bienvenue dans mon projet d'application web utilisant **MobileNet**, un modèle 
 - HTML / CSS / JavaScript
 - [TensorFlow.js](https://www.tensorflow.org/js) pour l'intégration de MobileNet
 
-##👤 Auteur
+## 👤 Auteur
 Yanis Khelif (Lycée Notre Dame de Providence- Enghien les bains)
